@@ -16,7 +16,7 @@ cat urls.txt | 403bypass
 
 1 - Install httpx (https://github.com/projectdiscovery/httpx)
 
-2 - `curl https://raw.githubusercontent.com/felipecaon/403bypass/main/403bypass > /usr/local/bin/403bypass`
+2 - `curl https://raw.githubusercontent.com/felipecaon/403bypass/main/403bypass.sh > /usr/local/bin/403bypass`
 
 3 - `chmod +x /usr/local/bin/403bypass`
 
