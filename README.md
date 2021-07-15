@@ -74,3 +74,4 @@ Feel free to open issue or PR with additional payloads.
 # Credits
 
 Main structure is made by Raywando, https://github.com/Raywando/4xxbypass
+For a more complete set, go to https://github.com/Dheerajmadhukar/4-ZERO-3/blob/main/403-bypass.sh
