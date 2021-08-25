@@ -1,6 +1,7 @@
 # 403bypass
 
 A tool that automates 403 bypassing techniques. 
+The script ignores responses where the status code is equal to 404 ot 403, because of that, the output can be a bit a large.
 
 # Usage
 
@@ -14,7 +15,7 @@ cat urls.txt | 403bypass
 
 # Installation
 
-1 - Install httpx (https://github.com/projectdiscovery/httpx)
+1 - Install httpx (https://github.com/projectdiscovery/httpx) (used for http validaton and status code/response size grabbing)
 
 2 - `curl https://raw.githubusercontent.com/felipecaon/403bypass/main/403bypass.sh > /usr/local/bin/403bypass`
 
